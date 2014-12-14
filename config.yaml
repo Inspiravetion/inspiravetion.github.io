@@ -1,0 +1,9 @@
+---
+contentdir: "src/content"
+layoutdir: "src/layouts"
+publishdir: "."
+indexes:
+  category: "categories"
+baseurl: "http://inspiravetion.github.io"
+title: "Curiosity. Obsession. Enlightenment."
+...
